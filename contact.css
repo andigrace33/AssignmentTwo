@@ -1,0 +1,26 @@
+body {
+    background-color: #f7ebfa;
+}
+
+.contactheader{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: xx-large;
+background-color: #ff00bf;
+padding: 20px 30px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 50px;
+    margin: 30px auto;
+}
+
+.contact {
+  display: block;
+  margin: 30px auto;
+  border: 10px solid#000000;
+  border-radius: 30px; 
+}

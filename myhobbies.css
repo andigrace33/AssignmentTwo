@@ -1,0 +1,86 @@
+body {
+    background-color: #f7ebfa;
+}
+
+.hobbiesheader{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: xx-large;
+background-color: #ff00bf;
+padding: 20px 30px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+}
+
+p1 {
+    font-size: larger;
+}
+
+.run {
+  display: block;
+  margin: 30px auto;
+  border: 10px solid#000000;
+  border-radius: 30px; 
+}
+
+p2 {
+    font-size: larger;
+    padding: 35px;
+}
+
+p3 {
+    font-size: larger;
+}
+
+.trees {
+  display: block;
+  margin: 30px auto;
+  border: 10px solid#000000;
+  border-radius: 30px; 
+}
+
+p4 {
+    font-size: larger;
+    padding: 345px;
+}
+
+p5 {
+    font-size: larger;
+}
+
+.cat {
+  display: block;
+  margin: 30px auto;
+  border: 10px solid#000000;
+  border-radius: 30px; 
+}
+
+p6 {
+    font-size: larger;
+    padding: 250px;
+}
+
+p7 {
+    font-size: larger;
+}
+
+.plane {
+  display: block;
+  margin: 30px auto;
+  border: 10px solid#000000;
+  border-radius: 30px; 
+}
+
+p8 {
+    font-size: larger;
+    padding: 290px
+}
+
+p9 {
+    display: block;
+    padding: 100px 100px;
+}

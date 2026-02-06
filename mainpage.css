@@ -1,0 +1,40 @@
+body {
+    background-color: #f7ebfa;
+}
+
+.navbar {
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: xx-large;
+background-color: #ff00bf;
+padding: 20px 30px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+}
+
+.intro {
+margin: 0;
+font-family: Georgia, sans-serif;
+font-size: x-large;
+padding: 50px 200px;
+border-style: dotted;
+border-width: 10px;
+border-radius: 120%;
+}
+
+.mainphoto {
+  display: block;
+  margin: 10px auto;
+  border: 50px solid#000000;
+  border-radius: 30px;     
+  padding: 5px; 
+}
+
+
+
+
+
